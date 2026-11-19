@@ -8,8 +8,7 @@ I build systems that take data from raw to useful: distributed storage, ML pipel
 
 - **[GRiT](https://github.com/gaurika27/GRiT)**: distributed key-value store in Go with Raft consensus, TTL support, persistent storage and a CLI visualizer.
 - **[QuantumFlow](https://github.com/gaurika27/QuantumFlow)**: hybrid quantum-classical workflow engine (Python + Rust/PyO3) running VQE/QAOA across Cirq, Qiskit and PennyLane.
-- **[StockSense AI](https://github.com/gaurika27/StockSense-AI)**: hybrid LSTM/XGBoost stock prediction with sentiment features and LLM-based explanations.
-- **[Churn Prediction with SHAP](https://github.com/gaurika27/churn-prediction-shap)**: LightGBM churn model with time-series validation and TreeSHAP explanations, on synthetic data.
+
 
 ## Skills
 
